@@ -204,12 +204,14 @@ ul li {
 
 }
 
-.special_tour h1 {
+#special_heading h1 {
+    padding-top: 10%;
     color: blue;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
-    margin-left: 45%;
+    margin-left: 40%;
     margin-top: 50px;
+    padding-bottom: 200px;
 
 }
 
@@ -220,9 +222,9 @@ ul li {
     color: white;
     padding: 10px;
     border-radius: 5px;
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 500;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 .youtube iframe {
